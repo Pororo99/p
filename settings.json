@@ -9,7 +9,7 @@
         "Demo Mode": "OFF",
         "Currency": "btt",
         "Show Price": "ON",
-        "Delay Bet(ms)": "25"
+        "Delay Bet(ms)": "0"
     },
     "Target": {
         "Profit (amt)": "0",
