@@ -81,8 +81,8 @@
         "Sigesit": {
             "Toggle": "ON",
             "Profit Reset": "0.00000001",
-            "Cut Lose": "50",
-            "Preroll": "50",
+            "Cut Lose": "45",
+            "Preroll": "40",
             "Multipler": "1.2",
             "Chance Win": {
                 "Min": "49",
