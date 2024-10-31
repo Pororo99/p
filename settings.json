@@ -7,14 +7,14 @@
     "Play Game": {
         "Mode": "dice",
         "Demo Mode": "OFF",
-        "Currency": "fey",
+        "Currency": "btt",
         "Show Price": "ON",
-        "Delay Bet(ms)": "0"
+        "Delay Bet(ms)": "45"
     },
     "Target": {
         "Profit (amt)": "0",
         "Profit (%)": "5",
-        "Balance": "1055",
+        "Balance": "1050005",
         "Lose": "0"
     },
     "Stopwin": {
@@ -83,14 +83,14 @@
             "Profit Reset": "0.00000001",
             "Cut Lose": "45",
             "Preroll": "35",
-            "Multipler": "1.2",
+            "Multipler": "1.1",
             "Chance Win": {
                 "Min": "49",
                 "Max": "49.95"
             },
             "Chance Lose": {
                 "Min": "7.56",
-                "Max": "12.75"
+                "Max": "10.75"
             }
         },
         "Marti": {
