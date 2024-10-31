@@ -9,7 +9,7 @@
         "Demo Mode": "OFF",
         "Currency": "btt",
         "Show Price": "ON",
-        "Delay Bet(ms)": "45"
+        "Delay Bet(ms)": "25"
     },
     "Target": {
         "Profit (amt)": "0",
@@ -89,7 +89,7 @@
                 "Max": "49.95"
             },
             "Chance Lose": {
-                "Min": "7.56",
+                "Min": "5.56",
                 "Max": "10.75"
             }
         },
